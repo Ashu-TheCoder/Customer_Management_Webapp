@@ -192,4 +192,4 @@ col10.button('Delete Multiple Customer',key='Delete Multiple',on_click=lambda:De
 
 
 st.write("---")
-st.markdown(f"**Developed by Ashish Bonde** <br> [LinkedIn](www.linkedin.com/in/ashish-bonde)<br> [GitHub Profile](https://github.com/Ashu-TheCoder)", unsafe_allow_html=True)
+st.markdown(f"**Developed by Ashish Bonde** <br> [LinkedIn](https://www.linkedin.com/in/ashish-bonde/)<br> [GitHub Profile](https://github.com/Ashu-TheCoder)", unsafe_allow_html=True)
