@@ -147,5 +147,5 @@ elif st.session_state['DB_Field']:
 
 st.write("---")
 # st.markdown(f"**Developed by Ashish Bonde** <br> [LinkedIn](https://www.linkedin.com/in/ashish-bonde/)<br> [GitHub Profile](https://github.com/Ashu-TheCoder)", unsafe_allow_html=True)
-st.markdown(f"""**👨‍💻 Developed by Ashish Bonde** <br> 💬 **Interested in the Customer Management WebApp?** <br> 📲 Connect with me on :<br>🔗 [LinkedIn](https://www.linkedin.com/in/ashish-bonde/) 💼  <br> 🐙 [GitHub Profile](https://github.com/Ashu-TheCoder)** 🚀  <br> [WhatsApp](https://api.whatsapp.com/send?phone=918484864084&text=Hi%20Ashish!%20I'm%20interested%20in%20learning%20more%20about%20your%20Customer%20Management%20WebApp.%20Let's%20connect!
+st.markdown(f"""**👨‍💻 Developed by Ashish Bonde** <br> 💬 **Interested in the Customer Management WebApp?** <br> 📲 Connect with me on :<br>[LinkedIn](https://www.linkedin.com/in/ashish-bonde/)<br>[GitHub Profile](https://github.com/Ashu-TheCoder)<br>[WhatsApp](https://api.whatsapp.com/send?phone=918484864084&text=Hi%20Ashish!%20I'm%20interested%20in%20learning%20more%20about%20your%20Customer%20Management%20WebApp.%20Let's%20connect!
 )""", unsafe_allow_html=True)
