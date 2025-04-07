@@ -147,3 +147,12 @@ elif st.session_state['DB_Field']:
 
 st.write("---")
 st.markdown(f"**Developed by Ashish Bonde** <br> [LinkedIn](https://www.linkedin.com/in/ashish-bonde/)<br> [GitHub Profile](https://github.com/Ashu-TheCoder)", unsafe_allow_html=True)
+st.markdown(f"""
+**👨‍💻 Developed by Ashish Bonde**  
+💬 **Interested in the Customer Management WebApp?**  
+📲 Connect with me on :
+🔗 **[LinkedIn](https://www.linkedin.com/in/ashish-bonde/)** 💼  
+🐙 **[GitHub Profile](https://github.com/Ashu-TheCoder)** 🚀  
+
+ [**WhatsApp**](https://api.whatsapp.com/send?phone=918484864084&text=Hi! I'm interested in learning more about your Customer Management WebApp. Let's connect!)  
+""", unsafe_allow_html=True)
