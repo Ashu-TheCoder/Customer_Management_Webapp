@@ -100,7 +100,7 @@ for key in ["Host", "User", "Password"]:
     if key not in st.session_state:
         st.session_state[key] = ""  # Use empty string instead of None
 
-st.sidebar.title("Database Connector")  # Sidebar title
+st.sidebar.title("SQL Server Connector")  # Sidebar title
 # Pre-fill inputs with previous session state values
 Host = st.sidebar.text_input("Enter Host Name", value=st.session_state["Host"])
 User = st.sidebar.text_input("Enter User Name", value=st.session_state["User"])
